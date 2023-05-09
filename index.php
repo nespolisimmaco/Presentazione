@@ -109,7 +109,7 @@ if (isset($_GET['user-input-15']) || ($_GET['user-input-16'])) {
                         <button class="btn btn-primary mx-2" type="submit">Invia</button>
                     </form>
                     <!-- RISULTATO -->
-                    <p class="card-text"></p>
+                    <p class="card-text">La funzione abs() restituisce il valore assoluto di un numero, cioè il suo valore numerico senza il segno.</p>
                     <a href="https://www.w3schools.com/php/func_math_abs.asp" class="card-link">Link alla funzione su W3Schools</a>
                 </div>
             </div>
