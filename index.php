@@ -97,8 +97,8 @@ if (isset($_GET['user-input-15']) || ($_GET['user-input-16'])) {
     <div id="app">
         <!-- Container -->
         <div class="container">
+            <h1>Math functions</h1>
             <!-- Card 1 -->
-
             <div class="card" style="margin: 20px 0;">
                 <div class="card-body">
                     <h5 class="card-title">abs($numero)</h5>
